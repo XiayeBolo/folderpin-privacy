@@ -1,7 +1,7 @@
 # Privacy Policy for FolderPin Pro
 
-**Effective Date: January 15, 2024**  
-**Last Updated: January 15, 2024**
+**Effective Date: July 23, 2025**  
+**Last Updated: July 23, 2025**
 
 ## Overview
 
