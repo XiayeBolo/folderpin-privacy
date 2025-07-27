@@ -1,15 +1,15 @@
-# Privacy Policy for FolderPin Pro
+# Privacy Policy for FolderPin
 
 **Effective Date: July 23, 2025**  
 **Last Updated: July 23, 2025**
 
 ## Overview
 
-FolderPin Pro is committed to protecting your privacy. This Privacy Policy explains how our macOS application handles your information and ensures your data remains secure and private.
+FolderPin is committed to protecting your privacy. This Privacy Policy explains how our macOS application handles your information and ensures your data remains secure and private.
 
 ## Information We Do NOT Collect
 
-FolderPin Pro is designed with privacy in mind. We **do not collect, store, transmit, or have access to any of your personal information**, including:
+FolderPin is designed with privacy in mind. We **do not collect, store, transmit, or have access to any of your personal information**, including:
 
 - Personal identification information (name, email, phone number, etc.)
 - File contents or file names
@@ -19,7 +19,7 @@ FolderPin Pro is designed with privacy in mind. We **do not collect, store, tran
 - Crash reports or error logs
 - Any other personal or sensitive information
 
-## How FolderPin Pro Works
+## How FolderPin Works
 
 ### Local Operation Only
 - **100% Local Processing**: All operations are performed entirely on your Mac
@@ -36,11 +36,11 @@ FolderPin Pro is designed with privacy in mind. We **do not collect, store, tran
 ### Data Storage
 - **Local Configuration Only**: The app stores minimal configuration data (your pinned file list and preferences) locally in your Mac's Application Support folder
 - **No Cloud Storage**: No data is stored in cloud services or external databases
-- **Standard macOS Location**: Configuration files are stored in `~/Library/Application Support/FolderPin Pro/`
+- **Standard macOS Location**: Configuration files are stored in `~/Library/Application Support/FolderPin/`
 
 ## Third-Party Services
 
-FolderPin Pro does not integrate with, connect to, or use any third-party services, including:
+FolderPin does not integrate with, connect to, or use any third-party services, including:
 - Analytics platforms
 - Advertising networks
 - Cloud storage services
@@ -55,14 +55,14 @@ FolderPin Pro does not integrate with, connect to, or use any third-party servic
 
 ## Data Security
 
-Since FolderPin Pro operates entirely on your local device and does not collect or transmit any data:
+Since FolderPin operates entirely on your local device and does not collect or transmit any data:
 - **No Network Vulnerabilities**: No risk of data breaches through network transmission
 - **Local File Security**: Your file security depends on your Mac's built-in security features
 - **No External Attack Surface**: No external servers or databases that could be compromised
 
 ## Children's Privacy
 
-FolderPin Pro does not collect any information from users of any age, including children under 13. The app's local-only operation ensures that no personal information is gathered regardless of the user's age.
+FolderPin does not collect any information from users of any age, including children under 13. The app's local-only operation ensures that no personal information is gathered regardless of the user's age.
 
 ## International Users
 
@@ -83,7 +83,7 @@ You maintain complete control over your data as it never leaves your device.
 We may update this Privacy Policy from time to time to reflect changes in our practices or for legal reasons. When we make changes:
 - We will update the "Last Updated" date at the top of this policy
 - For material changes, we will notify users through the app or the Mac App Store
-- Continued use of FolderPin Pro after changes constitutes acceptance of the updated policy
+- Continued use of FolderPin after changes constitutes acceptance of the updated policy
 
 ## Compliance
 
@@ -96,7 +96,7 @@ Since we do not collect personal information, many regulatory requirements do no
 
 ## Contact Information
 
-If you have any questions about this Privacy Policy or FolderPin Pro's privacy practices, please contact us:
+If you have any questions about this Privacy Policy or FolderPin's privacy practices, please contact us:
 
 - **Email**: imemofeel@gmail.com
 - **GitHub**: XiayeBolo
@@ -104,7 +104,7 @@ If you have any questions about this Privacy Policy or FolderPin Pro's privacy p
 
 ## Technical Details
 
-For technically-minded users, here are additional details about FolderPin Pro's operation:
+For technically-minded users, here are additional details about FolderPin's operation:
 
 ### File System Interactions
 - The app modifies only file creation and modification dates using standard macOS file system APIs
@@ -123,6 +123,6 @@ For technically-minded users, here are additional details about FolderPin Pro's 
 
 ---
 
-**This privacy policy demonstrates our commitment to your privacy and explains why FolderPin Pro is a trustworthy choice for file organization on macOS.**
+**This privacy policy demonstrates our commitment to your privacy and explains why FolderPin is a trustworthy choice for file organization on macOS.**
 
-*For the most current version of this Privacy Policy, please visit: https://github.com/XiayeBolo/folderpinpro-privacy
+*For the most current version of this Privacy Policy, please visit: https://github.com/XiayeBolo/folderpin-privacy
