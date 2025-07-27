@@ -125,4 +125,4 @@ For technically-minded users, here are additional details about FolderPin's oper
 
 **This privacy policy demonstrates our commitment to your privacy and explains why FolderPin is a trustworthy choice for file organization on macOS.**
 
-*For the most current version of this Privacy Policy, please visit: https://github.com/XiayeBolo/folderpin-privacy](https://github.com/XiayeBolo/folderpinpro-privacy/blob/main/PRIVACY.md
+*For the most current version of this Privacy Policy, please visit: https://github.com/XiayeBolo/folderpinpro-privacy/blob/main/PRIVACY.md
