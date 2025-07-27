@@ -1,2 +1,2 @@
-# folderpinpro-privacy
-Privacy Policy for FolderPin Pro
+# folderpin-privacy
+Privacy Policy for FolderPin
